@@ -1,0 +1,502 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    margin: 0px;
+    font-family: "Raleway", sans-serif !important;
+    position: relative;
+}
+.hero-section {
+    background: #000000 url(https://mcusercontent.com/a1d01c3568a7a75dcb3d3d58b/_compresseds/c78508e8-9403-276d-d6cc-bc1e07a23332.jpeg) no-repeat center / cover;
+    padding-top: 125px;
+    padding-bottom: 300px;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+#dijit__TemplatedMixin_2 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    padding: 12px 24px;
+    background-color: rgba(255, 255, 255, 0.6);
+    opacity: 0.8;
+    font-size: 14px;
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+}
+.mcPrivacyBadge {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    max-width: 960px;
+    width: 100%;
+}
+.contentContainer.mcPrivacyBadgeContent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
+.reportAbuseWrapper a {
+    text-decoration: none;
+}
+.banner-head h1 {
+    color: #FFFFFF;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 100%;
+    letter-spacing: normal;
+    text-align: left;
+    margin-top: 80px;
+    margin-bottom: 120px;
+}
+.banner-head p a {
+    color: #FFFFFF;
+    font-weight: normal;
+    font-family: Raleway;
+    font-size: 24px;
+    line-height: 150%;
+    text-align: left;
+    word-break: break-word;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+.mcnImageBlock.mcnImageBlockInner .mcnImageContent {
+    text-align: center;
+}
+.main_form .main_form2 .mc-field-group label {
+    display: block;
+    line-height: 150%;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 17px;
+    padding-bottom: 6px;
+    color: rgb(255, 255, 255);
+    font-family: Raleway;
+}
+.main_form .main_form2 .mc-field-group div input {
+    min-width: 91%;
+}
+.main_form .main_form2 .mc-field-group div span {
+    background: #fff;
+    padding: 4px;
+}
+.main_form .main_form2 .mc-field-group .mc-sms-phone-group .small-meta, .main_form .main_form2 .mc-field-group .mc-sms-phone-group .small-meta a {
+    font-size: 12px;
+    line-height: 140%;
+    color: #FFFFFF;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+.main_form .main_form2 .clear input {
+    font-size: 18px;
+    color: rgb(42, 42, 42);
+    border-radius: 2px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    letter-spacing: 0.01em;
+    border: none;
+    padding: 17px 20px;
+}
+.main_form {
+    width: 50%;
+}
+.main_form .main_form2 .mc-field-group label {
+    display: block;
+    line-height: 150%;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 17px;
+    padding-bottom: 6px;
+    color: rgb(255, 255, 255);
+    font-family: Raleway;
+}
+.main_form .main_form2 .mc-field-group input {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 1px;
+    color: rgb(34, 34, 34);
+    background-color: #ffffff;
+    display: inline-block;
+    margin: 0 0 24px;
+    min-height: 36px;
+    min-width: 50px;
+    padding: 0 0.4em;
+    vertical-align: middle;
+    width: 100%;
+}
+.main_form .main_form2 .mc-field-group div span {
+    background: #fff;
+    padding: 4px;
+}
+.main_form .main_form2 .mc-field-group .mc-sms-phone-group .small-meta, .main_form .main_form2 .mc-field-group .mc-sms-phone-group .small-meta a {
+    font-size: 12px;
+    line-height: 140%;
+    color: #FFFFFF;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.main_form .main_form2 .clear input {
+    font-size: 18px;
+    color: rgb(42, 42, 42);
+    border-radius: 2px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    letter-spacing: 0.01em;
+    border: none;
+    padding: 17px 20px;
+}
+.templateSection.templateTestimonials {
+    background: #fafafa none no-repeat center / cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-right: 0px;
+    padding-left: 0px;
+    box-sizing: border-box !important;
+    margin-top: 60px !IMPORTANT;
+}
+.Innovation-sec{
+	display: flex;
+	 flex-direction: row; 
+	 width: 100%; 
+	 max-width: 960px;
+	  box-sizing: border-box;
+}
+.Innovation-sec .column{
+	flex: 1;
+    background-color: transparent;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0;
+    border-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    box-sizing: border-box;
+}
+.templateSection.templateBody {
+    background: #fafafa none no-repeat center / cover;
+    position: relative;
+    display: flex;
+    flex-shrink: 0;
+    justify-content: center;
+    padding-right: 0px;
+    padding-left: 0px;
+    background-color: #fafafa;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0;
+    border-bottom: 0;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    box-sizing: border-box !important;
+}
+.templateSection.templateBody .bodyContainer.contentContainer {
+    max-width: 960px;
+    width: 100%;
+    flex: 0 0 auto;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0;
+    border-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    box-sizing: border-box !important;
+}
+.mcnButtonBlock.mcnButtonBlockInner {
+    width: fit-content;
+    padding-right: 18px;
+    padding-bottom: 18px;
+    padding-top: 0;
+    padding-left: 18px;
+}
+.mcnButtonBlock.mcnButtonBlockInner div a {
+    font-weight: bold;
+    letter-spacing: -0.5px;
+    line-height: 100%;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 2px;
+    background-color: #FFFFFF;
+    box-shadow: none;
+    padding: 18px 27px;
+    color: #2A2A2A;
+    font-family: Raleway;
+    display: block;
+    box-sizing: border-box !important;
+}
+.Embark {
+    padding-top: 0;
+    padding-right: 9px;
+    padding-bottom: 9px;
+    padding-left: 9px;
+}
+.Embark h1 {
+    padding: 0;
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 100%;
+    letter-spacing: normal;
+    text-align: left;
+    margin: 0px !IMPORTANT;
+}
+.templateSection.templateFooter {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 162px 0 302px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.01)), url(https://mcusercontent.com/a1d01c3568a7a75dcb3d3d58b/_compresseds/ff114405-865e-1570-3934-7fc1c9441f2a.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-top: 0;
+    border-bottom: 0;
+    box-sizing: border-box !important;
+}
+.templateSection.templateFooter .sectionFlexColumn {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box !important;
+}
+.templateSection.templateFooter .sectionFlexColumn .footerContainer.contentContainer {
+    max-width: 960px;
+}
+.craftsmanship{
+	padding-top: 144px;
+  display: flex;
+}
+.craftsmanship .mcnCaptionColumn {
+	display: flex;
+	flex-direction: row-reverse;
+}
+.craftsmanship .mcnCaptionColumn .mcnImage {
+	border-radius: 1%;
+	max-width: 100%;
+}
+.Innovation-sec .column .mcnCaptionBlock .mcnCaptionColumn .box-1 {
+    flex: 0 0 50%;
+}
+
+ .box-1 .mcnTextContent{
+padding: 0 9px; color: #686868; font-family: Raleway, sans-serif; font-size: 18px; line-height: 150%; text-align: left;
+ }
+ .box-1 .mcnTextContent p{
+ 	margin: 10px 0; padding: 0; color: #686868; font-family: Raleway, sans-serif; font-size: 18px; line-height: 150%; text-align: left;
+ }
+  .box-1 .mcnTextContent h4 {
+    margin: 0;
+    padding: 0;
+    color: #686868;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 37px;
+    text-align: left;
+}
+  .hed-Redefining{
+  	padding-top: 0;padding-right: 9px;padding-bottom: 9px;padding-left: 9px;word-break: break-word;flex-flow: column;color: #686868;font-family: Raleway;font-size: 22px;line-height: 150%;text-align: left;
+  }
+    .hed-Redefining h2{
+    	display: block;margin: 0;padding: 0;color: #2A2A2A;font-family: Raleway;font-size: 72px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: center;
+    }
+    .hed-Redefining p{
+    	text-align: center;margin: 10px 0;padding: 0;color: #686868;font-family: Raleway;font-size: 22px;line-height: 150%;
+    }
+
+#success-message{
+	display: none;
+}
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+    background: transparent !IMPORTANT;
+    font-weight: bold !IMPORTANT;
+    font-size: 19px !IMPORTANT;
+    padding: 0 !important;
+    margin: 0 !important;
+    color: #db3a1b !important;
+    margin-top: 5px !IMPORTANT;
+}
+#mc_embed_signup .mc-field-group div input#mce-SMSPHONE {
+    border-radius: 0px !important;
+}
+#mc_embed_signup .mc-field-group input {
+    padding: 0px 10px !IMPORTANT;
+    margin: 0px !IMPORTANT;
+}
+#mc_embed_signup .clear input:hover {
+    background-color: rgb(42, 42, 42);
+}
+#mc_embed_signup .clear input {
+    padding: 16px 18px;
+    background: #fff;
+    color: #2a2a2a;
+    line-height: normal;
+    height: auto;
+    font-size: 18px;
+    font-family: Raleway;
+    border-radius: 2px;
+}
+#mc_embed_signup .small-meta {
+    margin: 0px ! IMPORTANT;
+        font-size: 12px ! IMPORTANT;
+}
+#mc_embed_signup .mc-field-group label {
+    margin: 0px !IMPORTANT;
+}
+#mc_embed_signup .mc-field-group {
+    padding-bottom: 20px !IMPORTANT;
+}
+#mc_embed_signup form {
+    padding: 10px !IMPORTANT;
+    margin: 0px !IMPORTANT;
+}
+#mc_embed_signup .clear input:hover {
+    color: #fff;
+}
+.optional2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.optional2 span.field-help {
+    background: transparent !IMPORTANT;
+    letter-spacing: 0.01em;
+    color: #959595;
+    line-height: 1.38461538em;
+    font-size: 20px;
+    width: auto;
+    display: inline-block;
+    font-family: Raleway !IMPORTANT;
+    font-weight: 400 !IMPORTANT;
+    margin-right: -25px;
+}
+.mcnTextContent.banner-head h3 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Raleway;
+}
+.mcnTextContent.banner-head p {
+    color: #fff;
+    font-size: 18px;
+    margin: 0px;
+}
+#mc_embed_signup .asterisk {
+    color: #ffffff !important;
+}
+
+/*  **********Responsive css start here*************  */
+
+@media(max-width: 600px ){
+	.headerContainer.contentContainer .mcnTextBlock {
+    padding: 0px 13px;
+}
+.main_form {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+}
+
+@media(max-width: 480px ){
+.banner-head h1 {
+    font-size: 36px !important;
+    line-height: 125% !important;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.mcnTextContent.banner-head h3 {
+    font-size: 20px !IMPORTANT;
+}
+#mc_embed_signup form {
+    padding: 5px !IMPORTANT;
+}
+.main_form {
+    width: 86%;
+    padding-right: 18px;
+}
+.mcnTextContent h3 {
+    font-size: 24px !important;
+    line-height: 150% !important;
+}
+.Innovation-sec {
+    flex-direction: column !important;
+}
+.mcnCaptionColumn {
+    flex-direction: column !important;
+}
+.box-1 .mcnTextContent p {
+    font-size: 20px !important;
+    line-height: 150% !important;
+    padding: 0 9px 0 9px;
+}
+.mcnTextContent p {
+    font-size: 20px !important;
+    line-height: 150% !important;
+}
+.mcnTextContent h4 {
+    font-size: 20px !important;
+    line-height: 200% !important;
+    padding: 0 9px 0 9px;
+}
+.hed-Redefining h2 {
+    font-size: 30px !important;
+    line-height: 150% !important;
+}
+.craftsmanship .mcnCaptionColumn .mcnTextContent {
+    margin-top: 20px;
+    padding-right: 18px !important;
+    padding-left: 18px !important;
+}
+.craftsmanship .mcnCaptionColumn .mcnTextContent ul li {
+    font-size: 20px !important;
+    line-height: 150% !important;
+}
+.Embark h1 {
+    margin: 0;
+    font-size: 36px !important;
+    line-height: 125% !important;
+}
+.mcPrivacyBadge {
+    flex-direction: column-reverse;
+    gap: 18px;
+}
+.main_form .main_form2 .clear input {
+    padding: 14px 18px;
+}
+.banner-head p a {
+    font-size: 18px !important;
+    line-height: 150% !important;
+    margin-top: 0px !IMPORTANT;
+    margin-bottom: 20px !important;
+}
+.mcnImageBlock.mcnImageBlockInner .mcnImageContent {
+    padding: 0px 20px;
+}
+.box-1 .mcnTextContent h4 br {
+    display: none;
+}
+.main_form .main_form2 .mc-field-group div input {
+    min-width: 85%;
+}
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+    font-size: 17px !important;
+}
+
+
+}
