@@ -7,7 +7,7 @@ body {
 }
 .hero-section {
     background: #000000 url(https://mcusercontent.com/a1d01c3568a7a75dcb3d3d58b/_compresseds/c78508e8-9403-276d-d6cc-bc1e07a23332.jpeg) no-repeat center / cover;
-    padding-top: 125px;
+    padding-top: 55px;
     padding-bottom: 300px;
     box-sizing: border-box;
     position: relative;
@@ -52,8 +52,8 @@ body {
     line-height: 100%;
     letter-spacing: normal;
     text-align: left;
-    margin-top: 80px;
-    margin-bottom: 120px;
+    margin-top: 1px;
+    margin-bottom: 10px;
 }
 .banner-head p a {
     color: #FFFFFF;
