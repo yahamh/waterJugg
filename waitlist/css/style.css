@@ -8,7 +8,7 @@ body {
 .hero-section {
     background: #000000 url(https://mcusercontent.com/a1d01c3568a7a75dcb3d3d58b/_compresseds/c78508e8-9403-276d-d6cc-bc1e07a23332.jpeg) no-repeat center / cover;
     padding-top: 55px;
-    padding-bottom: 300px;
+    padding-bottom: 20px;
     box-sizing: border-box;
     position: relative;
     display: flex;
